@@ -55,7 +55,7 @@ maven-market-power-bi-dashboard/
 
 ## Captura del dashboard
 
-> - `images/Dashboard.png`
+![Dashboard Maven Market](images/Dashboard.png)
 
 
 ## Aprendizajes
